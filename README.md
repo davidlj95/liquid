@@ -23,12 +23,12 @@ Compared to Bitcoin itself, it adds the following features:
  * [Confidential Assets][asset-issuance]
  * [Confidential Transactions][confidential-transactions]
  * [Additional opcodes][opcodes]
- * [Deterministic Peg][deterministic-peg]
+ * [Deterministic Peg][federated-peg]
  * [Signed Blocks][signed-blocks]
 
 Previous elements that have been integrated into Bitcoin:
- * [Segregated Witness][segregated-witness]
- * [Relative Lock Time][relative-lock-time]
+ * Segregated Witness
+ * Relative Lock Time
 
 Elements deferred for additional research and standardization:
  * [Schnorr Signatures][schnorr-signatures]
@@ -38,14 +38,12 @@ License
 Elements is released under the terms of the MIT license. See [COPYING](COPYING) for more
 information or see http://opensource.org/licenses/MIT.
 
-[confidential-transactions]: https://www.elementsproject.org/elements/confidential-transactions
-[segregated-witness]: https://www.elementsproject.org/elements/segregated-witness
-[relative-lock-time]: https://www.elementsproject.org/elements/relative-lock-time
-[schnorr-signatures]: https://www.elementsproject.org/elements/schnorr-signatures
-[opcodes]: https://www.elementsproject.org/elements/opcodes
-[deterministic-peg]: https://www.elementsproject.org/elements/deterministic-pegs
-[signed-blocks]: https://www.elementsproject.org/elements/signed-blocks
-[asset-issuance]: https://www.elementsproject.org/elements/asset-issuance
+[confidential-transactions]: https://elementsproject.org/features/confidential-transactions
+[opcodes]: https://elementsproject.org/features/opcodes
+[federated-peg]: https://elementsproject.org/features#federatedpeg
+[signed-blocks]: https://elementsproject.org/features#signedblocks
+[asset-issuance]: https://elementsproject.org/features/issued-assets
+[schnorr-signatures]: https://elementsproject.org/features/schnorr-signatures
 
 What is the Elements Project?
 -----------------
